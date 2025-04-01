@@ -17,7 +17,7 @@ Com paixão por tecnologia e desenvolvimento Back-End, estou em transição para
 📚 Formação acadêmica em andamento:<br><br>
 Análise e Desenvolvimento de Sistemas<br><br>
 🚀 Tecnologias principais:<br><br>
-HTML5 | CSS3 | JavaScript | Python | Java | MySQL | Node.js | React <br>
+Back End | Python | C++| Java | JavaScript | MySQL <br>
 🌟 Focado em otimização de processos e desenvolvimento de sistemas eficientes.</p>
 
 
